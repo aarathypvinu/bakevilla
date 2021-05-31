@@ -4,7 +4,7 @@
     
     <div class="row">
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
-            <img height="100px"width="1200px" src="https://content.jdmagicbox.com/comp/thrissur/w4/9999px487.x487.140213105023.p7w4/catalogue/mango-bakers-punkunnu-thrissur-7.png" class="img-thumbnail" alt="...">
+            <img height="300px"width="500px" src="https://content.jdmagicbox.com/comp/thrissur/w4/9999px487.x487.140213105023.p7w4/catalogue/mango-bakers-punkunnu-thrissur-7.png" class="img-thumbnail" alt="...">
 
         </div>
     </div>
