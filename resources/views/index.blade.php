@@ -3,11 +3,13 @@
 <div class="container">
     
     <div class="row">
-        <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
+    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2 "></div>
+        <div class="col col-12 col-sm-8 col-md-8 col-lg-8 col-xl-8 col-xxl-8 ">
             <img height="300px"width="500px" src="https://content.jdmagicbox.com/comp/thrissur/w4/9999px487.x487.140213105023.p7w4/catalogue/mango-bakers-punkunnu-thrissur-7.png" class="img-thumbnail" alt="...">
 
         </div>
     </div>
+    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2 "></div>
     <div class="row">
         <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <table class="table-borderless">
